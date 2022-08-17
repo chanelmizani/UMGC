@@ -1,0 +1,54 @@
+<div class="header container logo">
+
+  <div id="banner" class="col-12">
+    <h1>AWIS</h1>
+    <h2 id="tagline">Association for Women in Science</h2>
+  </div><!-- banner -->
+
+</div><!-- header -->
+
+<div id="main-content" class="container">
+
+  <div class="col-12 content-container">
+    <h2 class="section-header">About Us</h2>
+    <p>Our organization supports women in Science, Technology, Engineering, and Math fields. We embrace inclusivity, women giving back to the community and caring for the environment, women lifting each other up and supporting women empowerment, and they showcase fluency in the sciences and technology.</p>
+    <div class="row">
+      <div class="col-6 highlights first-content">
+        <h3 class="main-title">Our Mission</h3>
+        <img src="https://images.theconversation.com/files/336665/original/file-20200521-102671-obkmb5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop">
+        <p>&#8220;For individuals seeking equity for women in science, engineering, technology and math, AWIS provides career development, networking, mentorship, and leadership opportunities.&#8221;</p>
+      </div><!-- first-content -->
+
+      <div class="col-6 highlights first-content">
+        <h3 class="main-title">Our Audience</h3>
+
+        <p>Our target demographic audience includes women who:</p>
+        <ul>
+          <li>are between 27-37</li>
+          <li>have 10+ years of post-secondary education</li>
+          <li>have strong technology skills</li>
+          <li>are liberal/progressive minded</li>
+          <li>participate in community/environmental service</li>
+        </ul>
+      </div><!-- first-content -->
+    </div><!-- row -->
+  
+  <div id="dynamicOptions" class="col-12">
+    <div class="row">
+    <div class="quote-container">
+
+      <p class="sloganSample"></p>
+
+      <div class="quoteCitation">
+        <h2 class="section-header cta">Our Call To Action:</h2>
+        <cite class="ctaQuote"></cite>
+      </div><!-- quoteCitation -->
+
+    </div>
+    <!--quote-container-->
+
+    <button class="btn btn-click">next</button>
+</div><!-- row -->
+</div><!-- dynamicOtpions -->
+</div><!-- content-container -->
+</div> <!-- main-content -->
